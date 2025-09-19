@@ -1,4 +1,4 @@
-#  Hi👋, I'm Kushagra Bajpai
+#  Hi👋, I'm Kushagra Bajpai 
 Aspiring Full-Stack Web Developer | B.Tech CSE Student
 
 I’m passionate about building impactful digital experiences and constantly learning new technologies. My journey so far includes:
